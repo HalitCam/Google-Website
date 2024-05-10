@@ -68,3 +68,10 @@ a{
     font-size: 14px;
     height: 36px;
 }
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(216, 216, 209);
+    padding: auto;
+}
